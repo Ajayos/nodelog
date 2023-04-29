@@ -1,0 +1,27 @@
+{
+    "name": "@ajayos/nodelog",
+    "version": "1.0.2",
+    "description": "This is a logging module that allows the user to log messages with different severity levels.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ajayos/nodelog.git"
+    },
+    "keywords": [
+      "nodelog",
+      "node",
+      "js",
+      "ajay",
+      "log"
+    ],
+    "author": "Ajay o s",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/Ajayos/nodelog/issues"
+    },
+    "homepage": "https://github.com/Ajayos/nodelog#readme",
+    "dependencies": {
+      "color": "^4.2.3",
+      "colors": "^1.4.0"
+    }
+}
